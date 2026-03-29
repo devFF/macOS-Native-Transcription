@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Trashes
+.Spotlight-V100
+.fseventsd
+
+# Application Specific
+recordings/
+summaries/
+config.json
+.hf_token
+
+# Binary Executables
+src/sck_audio
+!src/sck_audio.swift
+
+# Log files
+*.log
+/tmp/macos-native-transcription.*.log
