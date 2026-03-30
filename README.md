@@ -1,6 +1,6 @@
 # macOS-Native-Transcription
 
-A fully local, offline macOS menu bar application designed to seamlessly record system and microphone audio, transcribe it in real-time, and perform speaker diarization.
+A native macOS menu bar app for real-time meeting transcription and speaker diarization. 100% local, private, and powered by ScreenCaptureKit, Parakeet v3, and pyannote.audio.
 
 ---
 
