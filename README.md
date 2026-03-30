@@ -39,7 +39,7 @@ The application is composed of multiple concurrent components:
 Clone the repository and install the standard dependencies. On first run, this will pull the MLX Parakeet v3 weights plus the diarization pipeline:
 
 ```bash
-git clone https://github.com/far-light/macOS-Native-Transcription.git
+git clone git@github.com:devFF/macOS-Native-Transcription.git
 cd macOS-Native-Transcription
 python3 -m venv .venv
 source .venv/bin/activate
